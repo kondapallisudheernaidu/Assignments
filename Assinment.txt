@@ -1,0 +1,42 @@
+HIGH AVAILABILITY:
+ High availabity is the ability of a system to operate continuously without failing for a designation period of time.High avalability works to ensure a system meets an agreed-upon operational performance level.
+  How can we achieve high availability:
+* Elimination of single point of failure.This means adding or building redundancy into the system so that failure of a component does not mean failure of the entire system.
+*Reliable crossover. In redundant systems, the crossover point itself tends to become a single point of failure. Reliable systems must provide for reliable crossover.
+* Detection of failures as they accur.if the two principle above are abserved , then a user may never see a failure- but the maintenance activity must.
+
+RESILIENCE:
+  Resilience is nothing but the ability to bounce back nad withstand problems.
+  Resilience overlap significantly with other quality attributes including usability,performance,and scalability,influencing the OUTPUT of the system as well.
+
+OBSERVABILITY:
+  In general, observability is the extent to which you can understand the internal state or condition of a complex system based only on knowledge of its external outputs.
+
+Why is observability important in softwares:
+  Observability enables you to understand what is slow or broken and what you need to do to improve performance.With an observability solution in place, teams can receive alerts about issues and proactively resolve them before they impact users.
+
+Types of Observability:
+  There are three types of Observability (LOGS,METRICS,TRACES).These three data outputs provide different insights into the health and functions of systems in cloud and microservices environments.
+
+MONITORING:
+  Moonitoring is a subset of observability that involves keeping track of important events and metrics so that anomalies,errors, and downtime are noticeable immediately.Monitoring measures progress toward results by collecting information on inputs, activities, outputs, and sometimes short-term outcomes.
+
+LOGS:
+A log file is a computer-generated data file that contains information about usage patterns,activities,and operations within an operating system,application, server or another device.
+
+ALERTS:
+  In a general sense an "alert" refers to a notification or warning that is used to draw attention to a particular event or situation. 
+
+RECOVERY TIME OBJECTIVE(RTO):
+  The recovery time objective(RTO) is the maximum acceptable time that an application,computer,network,or system can be down after an unexpected disaster, failure,comparable event takes place.An RTO is not a deadline it does not mandate a specific date for recovery.
+  
+RECOVERY POINT OBJECTIVE(RPO):
+  A recovery point objective (RPO) is the maximum length of time permitted that data can be restored from, which may or may not mean data loss.
+
+LOAD SCALING:
+Autoscaling is a way to automatically scale the computing resources of your application based on the load on a server farm. It involves scaling up the resources when there is a spike or rise in web traffic and scaling down when traffic levels are low.
+The benefits of using Auto Scaling in cloud computing include cost optimization, improved availability, increased performance, flexibility and agility, simplified management, scalability, and enhanced security.
+
+RETURN ON INVESTMENT(ROI):
+  Return on investment (ROI) is a performance measure used to evaluate the efficiency or profitability of an investment or compare the efficiency of a number of different investments. ROI tries to directly measure the amount of return on a particular investment, relative to the investment's cost.
+Example, an investor purchases ₹1,00o worth of shares and sells the stock two years later for ₹1,200. The net profit from the expenses would be ₹200, and the Return on Investment can be calculated as below. So, in the above example, the Return on Investment will be 20%
